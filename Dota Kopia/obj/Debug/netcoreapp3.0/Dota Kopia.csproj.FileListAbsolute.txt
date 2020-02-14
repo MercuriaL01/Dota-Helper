@@ -1,0 +1,14 @@
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\Dota Kopia.exe
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\obj\Debug\netcoreapp3.0\Dota Kopia.csprojAssemblyReference.cache
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\obj\Debug\netcoreapp3.0\Dota Kopia.AssemblyInfoInputs.cache
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\obj\Debug\netcoreapp3.0\Dota Kopia.AssemblyInfo.cs
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\obj\Debug\netcoreapp3.0\Dota Kopia.csproj.CopyComplete
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\Dota Kopia.deps.json
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\Dota Kopia.runtimeconfig.json
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\Dota Kopia.runtimeconfig.dev.json
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\Dota Kopia.dll
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\Dota Kopia.pdb
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\obj\Debug\netcoreapp3.0\Dota Kopia.dll
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\obj\Debug\netcoreapp3.0\Dota Kopia.pdb
+C:\Users\iley.alvarezfuncke\source\repos\Dota Kopia\Dota Kopia\bin\Debug\netcoreapp3.0\RestSharp.dll
